@@ -17,7 +17,7 @@ function nick_ajax(param){
                 "Accept-Language": "ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7",
                 "Accept-Charset": "application/x-www-form-urlencoded; charset=UTF-8",
                 "Origin": "https://developer.riotgames.com",
-                "X-Riot-Token": "RGAPI-d265ae1f-1d6a-429e-82fa-8e707449ff6d",
+                "X-Riot-Token": "RGAPI-4a1b2207-40c3-48b9-a1a5-327623bb89cf",
                 "Access-Control-Allow-Origin":"*"
             }
     };
