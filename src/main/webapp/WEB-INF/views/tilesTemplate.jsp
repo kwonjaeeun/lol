@@ -13,11 +13,14 @@
 <body>
   <div id="container">
     <tiles:insertAttribute name="header"/>
-    <section>
-      <tiles:insertAttribute name="content"/>
-    </section>
+    <div id="sec_container">
+      <section id="section1">
+        <div>1</div>
+        <tiles:insertAttribute name="content"/>
+      </section>
+    </div>
     <footer>
-      Copyright 2021.
+      In the KoreaIT Academy 2021.
     </footer>
   </div>
 </body>

@@ -16,6 +16,9 @@
         </form>
         <div id="result"></div>
     </div>
+    <button onclick="onlyone()">누르면 안보일려나</button>
+    <button onclick="plus()">누르면 추가할려나</button>
+
     <script src="/res/js/hello.js"></script>
 </body>
 </html>
